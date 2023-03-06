@@ -1,0 +1,7 @@
+- Download the five files .py into a directory of your machine.
+
+- Edit smpt.py with your email account credentials.
+
+- Edit main.py.
+
+- Run main.py.
