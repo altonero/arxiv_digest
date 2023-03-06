@@ -1,1 +1,3 @@
 # arxiv_digest
+
+This repository contains a Python script that scrapes the arXiv.org "New submissions" web page of any specific research subject defined by the user, from "astro-ph" to "econ".  The code allows the user to find papers that contain a specific keyword in the title and/or papers that are submitted by a specific author. The user can ask the code to send an email to themselves with the results of their search.
