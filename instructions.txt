@@ -5,3 +5,5 @@
 - Edit main.py.
 
 - Run main.py.
+
+For Linux users, use "cronotab -e" to set up the running of the script at specific time of the day. 
